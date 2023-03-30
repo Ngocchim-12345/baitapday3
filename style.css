@@ -1,0 +1,32 @@
+.circle1, .circle2, .circle3, .circle4, .circle5, .circle6{
+    height: 100px;
+    width: 100px;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+}
+.circle4, .circle5, .circle6{
+    display: inline-block;
+}
+.circle4 {
+    background-color: rgb(224, 0, 0);
+}
+.circle5 {
+    background-color: rgb(22, 59, 160);
+}
+.circle6 {
+    background-color: rgb(84, 150, 95);
+}
+
+.circle1 {
+    background-color: rgb(60, 179, 113);
+}
+.circle2 {
+    background-color: rgb(75, 28, 77);
+}
+.circle3 {
+    background-color: rgb(111, 75, 170);
+}
+h2{
+    padding-top: 39px;
+}
